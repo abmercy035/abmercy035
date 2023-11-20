@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Learnard**
 
-- 📫 How to reach me **abmercy035@gmail**
+- 📫 How to reach me **abmercy035@gmail.com**
 
-- 📄 Know about my experiences [Samuel_Abraham_CV](Samuel_Abraham_CV)
+- 📄 Know about my experiences [https://javascript-enthusiast.onrender.com/](https://javascript-enthusiast.onrender.com/)
 
 - ⚡ Fun fact **I Am Smart**
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/devabraham035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devabraham035" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/javascriptenthusiat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javascriptenthusiat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/samuel-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samuel-abraham" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14431191/samuel-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14431191/samuel-abraham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
