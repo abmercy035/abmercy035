@@ -41,11 +41,12 @@ Here’s what I bring to the table:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
   </a>  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
   </a>  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+   <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
   </a>  
@@ -54,6 +55,6 @@ Here’s what I bring to the table:
   </a>  
 </p>
 
-
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abmercy035&show_icons=true&locale=en" alt="abmercy035" /></p>
